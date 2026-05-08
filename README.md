@@ -60,6 +60,13 @@ Currently exploring system design, cloud infrastructure, CI/CD, local AI, and mu
 
 ![GitHub Metrics](./github-metrics.svg)
 
+### 📅 Commit Calendar
+
+![Isometric Commit Calendar](./metrics.isocalendar.svg)
+
+### 🈷️ Languages Activity
+
+![Languages Activity](./metrics.languages.svg)
 ---
 
 ## 📫 Contact
