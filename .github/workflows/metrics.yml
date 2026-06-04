@@ -37,11 +37,9 @@ jobs:
           # Requer que o METRICS_TOKEN tenha o escopo "repo" e que a opção
           # "Include private contributions on my profile" esteja ativada em
           # https://github.com/settings/profile
-          repositories_skipped: ""
           plugin_activity: yes
           plugin_activity_visibility: all
           plugin_activity_limit: 5
-          plugin_activity_days: 0
 
           # Reconhece seus commits mesmo com nomes/emails diferentes.
           commits_authoring: BonifacioDeOliveira, Bonifácio de Oliveira, Bonifacio de Oliveira, bonifacio, bonifaciodeoliveira@outlook.com, bonifacio@users.noreply.github.com
