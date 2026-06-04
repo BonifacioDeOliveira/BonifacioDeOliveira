@@ -40,3 +40,9 @@ jobs:
 
           # Reconhece seus commits mesmo com nomes/emails diferentes.
           commits_authoring: BonifacioDeOliveira, Bonifácio de Oliveira, Bonifacio de Oliveira, bonifacio, bonifaciodeoliveira@outlook.com, bonifacio@users.noreply.github.com
+
+          # Esconde "Pull requests reviewed" (2º campo) e "Pull requests opened"
+          # (3º campo) da seção Activity, mantendo Commits e os demais.
+          extras_css: |
+            .largeable-inline-flex .row > section:first-of-type > div.field:nth-of-type(2),
+            .largeable-inline-flex .row > section:first-of-type > div.field:nth-of-type(3) { display: none !important; }
