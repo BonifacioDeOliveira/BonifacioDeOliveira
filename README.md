@@ -45,14 +45,14 @@ Currently exploring system design, cloud infrastructure, CI/CD, local AI, and mu
 
 ## 🧠 Areas I'm interested in
 
-- Backend engineering
-- System design
-- Cloud infrastructure
-- CI/CD and deployment workflows
-- AI-powered automation
-- RAG and LLM applications
-- Developer tools
-- Multi-tenant architectures
+![Backend Engineering](https://img.shields.io/badge/Backend%20Engineering-29202a?style=for-the-badge&labelColor=29202a)
+![System Design](https://img.shields.io/badge/System%20Design-29202a?style=for-the-badge&labelColor=29202a)
+![Cloud Infrastructure](https://img.shields.io/badge/Cloud%20Infrastructure-29202a?style=for-the-badge&labelColor=29202a)
+![CI/CD](https://img.shields.io/badge/CI%2FCD%20%26%20Deployment-29202a?style=for-the-badge&labelColor=29202a)
+![AI Automation](https://img.shields.io/badge/AI--Powered%20Automation-29202a?style=for-the-badge&labelColor=29202a)
+![RAG and LLM](https://img.shields.io/badge/RAG%20%26%20LLM%20Apps-29202a?style=for-the-badge&labelColor=29202a)
+![Developer Tools](https://img.shields.io/badge/Developer%20Tools-29202a?style=for-the-badge&labelColor=29202a)
+![Multi-tenant](https://img.shields.io/badge/Multi--tenant%20Architectures-29202a?style=for-the-badge&labelColor=29202a)
 
 ---
 
