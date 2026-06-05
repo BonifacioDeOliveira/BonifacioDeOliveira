@@ -58,7 +58,7 @@ Currently exploring system design, cloud infrastructure, CI/CD, local AI, and mu
 
 ## 📊 GitHub Metrics
 
-![GitHub Metrics](./github-metrics.svg)
+<img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
 
 ---
 
