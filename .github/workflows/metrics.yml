@@ -36,7 +36,7 @@ jobs:
           # linhas, mantendo o tamanho da fonte (sem zoom como width="100%").
           config_display: large
           # Recorta o espaço vazio extra no rodapé após o layout horizontal.
-          config_padding: 0, -16%
+          config_padding: 0, -10%
 
           base: header, activity, community, metadata
 
