@@ -2,7 +2,8 @@ name: GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 8 * * 1"
+    # Diário às 08:00 UTC (05:00 em America/Sao_Paulo). Cron do GitHub Actions usa UTC.
+    - cron: "0 8 * * *"
   workflow_dispatch:
   push:
     branches:
