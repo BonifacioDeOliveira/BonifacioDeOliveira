@@ -35,8 +35,6 @@ jobs:
           # Largura maior (960px): espalha o conteúdo em mais colunas e menos
           # linhas, mantendo o tamanho da fonte (sem zoom como width="100%").
           config_display: large
-          # Recorta o espaço vazio extra no rodapé após o layout horizontal.
-          config_padding: 0, -7%
 
           base: header, activity, community, metadata
 
