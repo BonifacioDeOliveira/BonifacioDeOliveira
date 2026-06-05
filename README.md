@@ -1,4 +1,4 @@
-# Hey, I'm Bonifácio 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:2e2330,100:2a1f23&height=190&section=header&text=Hey,%20I'm%20Bonif%C3%A1cio%20%E2%98%95&fontColor=e8ad62&fontSize=40&fontAlignY=38&desc=Backend%20%E2%80%A2%20Automation%20%E2%80%A2%20AI%20Tools%20%E2%80%A2%20Fullstack&descAlignY=58&descSize=18&descColor=d2bb9d)
 
 Software Engineer focused on backend systems, automation, AI tools, and fullstack products.
 
@@ -11,35 +11,35 @@ Currently exploring system design, cloud infrastructure, CI/CD, local AI, and mu
 ## 🧰 Tech Stack
 
 ### Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![Python](https://img.shields.io/badge/Python-29202a?style=for-the-badge&logo=python&logoColor=e8ad62)
+![FastAPI](https://img.shields.io/badge/FastAPI-29202a?style=for-the-badge&logo=fastapi&logoColor=e8ad62)
+![Flask](https://img.shields.io/badge/Flask-29202a?style=for-the-badge&logo=flask&logoColor=e8ad62)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-29202a?style=for-the-badge&logo=sqlalchemy&logoColor=e8ad62)
+![Pydantic](https://img.shields.io/badge/Pydantic-29202a?style=for-the-badge&logo=pydantic&logoColor=e8ad62)
 
 ### Frontend
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-29202a?style=for-the-badge&logo=typescript&logoColor=e8ad62)
+![JavaScript](https://img.shields.io/badge/JavaScript-29202a?style=for-the-badge&logo=javascript&logoColor=e8ad62)
+![React](https://img.shields.io/badge/React-29202a?style=for-the-badge&logo=react&logoColor=e8ad62)
+![Svelte](https://img.shields.io/badge/Svelte-29202a?style=for-the-badge&logo=svelte&logoColor=e8ad62)
 
 ### Database & Messaging
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-29202a?style=for-the-badge&logo=postgresql&logoColor=e8ad62)
+![SQLite](https://img.shields.io/badge/SQLite-29202a?style=for-the-badge&logo=sqlite&logoColor=e8ad62)
+![Redis](https://img.shields.io/badge/Redis-29202a?style=for-the-badge&logo=redis&logoColor=e8ad62)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-29202a?style=for-the-badge&logo=rabbitmq&logoColor=e8ad62)
 
 ### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-29202a?style=for-the-badge&logo=docker&logoColor=e8ad62)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-29202a?style=for-the-badge&logo=github-actions&logoColor=e8ad62)
+![Linux](https://img.shields.io/badge/Linux-29202a?style=for-the-badge&logo=linux&logoColor=e8ad62)
+![AWS](https://img.shields.io/badge/AWS-29202a?style=for-the-badge&logo=amazonwebservices&logoColor=e8ad62)
 
 ### AI & Automation
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-Vector_Search-6E56CF?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Automation-RPA-0A66C2?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-29202a?style=for-the-badge&logo=openai&logoColor=e8ad62)
+![Ollama](https://img.shields.io/badge/Ollama-29202a?style=for-the-badge&logo=ollama&logoColor=e8ad62)
+![RAG](https://img.shields.io/badge/RAG%20%E2%80%A2%20Vector%20Search-29202a?style=for-the-badge&logoColor=e8ad62)
+![Automation](https://img.shields.io/badge/Automation%20%E2%80%A2%20RPA-29202a?style=for-the-badge&logoColor=e8ad62)
 
 ---
 
@@ -64,5 +64,7 @@ Currently exploring system design, cloud infrastructure, CI/CD, local AI, and mu
 
 ## 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bonifacio-oliveira)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bonifaciodeoliveira@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-29202a?style=for-the-badge&logo=linkedin&logoColor=e8ad62)](https://www.linkedin.com/in/bonifacio-oliveira)
+[![Email](https://img.shields.io/badge/Email-Contact-29202a?style=for-the-badge&logo=gmail&logoColor=e8ad62)](mailto:bonifaciodeoliveira@outlook.com)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2a1f23,100:2e2330&height=120&section=footer)
