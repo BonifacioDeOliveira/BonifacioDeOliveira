@@ -32,6 +32,10 @@ jobs:
           template: classic
           config_timezone: America/Sao_Paulo
 
+          # Largura maior (960px): espalha o conteúdo em mais colunas e menos
+          # linhas, mantendo o tamanho da fonte (sem zoom como width="100%").
+          config_display: large
+
           base: header, activity, community, metadata
 
           # Conta também repositórios de organizações e como colaborador,

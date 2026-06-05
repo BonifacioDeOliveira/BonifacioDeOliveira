@@ -58,13 +58,11 @@ Currently exploring system design, cloud infrastructure, CI/CD, local AI, and mu
 
 ## 📊 GitHub Metrics
 
-<img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
+![GitHub Metrics](./github-metrics.svg)
 
 ---
 
 ## 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/bonifacio-oliveira
-
-)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bonifacio-oliveira)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bonifaciodeoliveira@outlook.com)
