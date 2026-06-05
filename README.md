@@ -67,4 +67,4 @@ Currently exploring system design, cloud infrastructure, CI/CD, local AI, and mu
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-29202a?style=for-the-badge&logo=linkedin&logoColor=e8ad62)](https://www.linkedin.com/in/bonifacio-oliveira)
 [![Email](https://img.shields.io/badge/Email-Contact-29202a?style=for-the-badge&logo=gmail&logoColor=e8ad62)](mailto:bonifaciodeoliveira@outlook.com)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2a1f23,100:2e2330&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:a06a3f,100:edc079&height=120&section=footer)
