@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:2e2330,100:2a1f23&height=190&section=header&text=Hey,%20I'm%20Bonif%C3%A1cio%20%E2%98%95&fontColor=e8ad62&fontSize=40&fontAlignY=38&desc=Backend%20%E2%80%A2%20Automation%20%E2%80%A2%20AI%20Tools%20%E2%80%A2%20Fullstack&descAlignY=58&descSize=18&descColor=d2bb9d)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6e4c36,100:a06a3f&height=190&section=header&text=Hey,%20I'm%20Bonif%C3%A1cio%20%E2%98%95&fontColor=f3e3cb&fontSize=40&fontAlignY=38&desc=Backend%20%E2%80%A2%20Automation%20%E2%80%A2%20AI%20Tools%20%E2%80%A2%20Fullstack&descAlignY=58&descSize=18&descColor=f3e3cb)
 
 Software Engineer focused on backend systems, automation, AI tools, and fullstack products.
 
