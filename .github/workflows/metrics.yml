@@ -71,3 +71,11 @@ jobs:
               --color-calendar-graph-day-L3-bg: #d0934e !important;
               --color-calendar-graph-day-L4-bg: #edc079 !important;
             }
+            /* O calendário de contribuições usa cores inline (fill="#..."); CSS
+               sobrescreve atributo de apresentação. Remapeia o verde do GitHub
+               para um degradê de café (espresso -> crema). */
+            [fill="#ebedf0"] { fill: #3a2c2a !important; }   /* dia vazio */
+            [fill="#9be9a8"] { fill: #6e4c36 !important; }   /* nível 1 */
+            [fill="#40c463"] { fill: #a06a3f !important; }   /* nível 2 */
+            [fill="#30a14e"] { fill: #d0934e !important; }   /* nível 3 */
+            [fill="#216e39"] { fill: #edc079 !important; }   /* nível 4 */
