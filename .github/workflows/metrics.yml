@@ -9,6 +9,11 @@ on:
       - main
       - master
 
+# Evita que dois runs commitem o SVG ao mesmo tempo (corrida "does not match SHA").
+concurrency:
+  group: github-metrics
+  cancel-in-progress: false
+
 jobs:
   metrics:
     runs-on: ubuntu-latest
